@@ -1,0 +1,6 @@
+2e1d592efcb388386f987414d6709b0a *DESCRIPTION
+d387be3569ded0b84db36578edb5d2c7 *NAMESPACE
+1fe3a0e2b74d6788d63132658f877032 *R/mirrorselect.R
+7bbd88dee30d5bfc6c8b8dc4ff940522 *R/zzz.R
+b2a740e7c28602af9c3a835c8c5e8519 *man/get_mirror.Rd
+32a2da78da2394967078666fe286fd0e *man/mirrorselect.Rd
